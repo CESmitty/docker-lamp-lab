@@ -17,3 +17,4 @@ alias grep='grep --color=auto'
 PS1='\[\e[32m\]\u@\h\[\e[m\]:\[\e[34m\]\w\[\e[m\]\$ '
 
 echo "✅ .bashrc successfully loaded!"
+export DOCKER_API_VERSION=1.43
